@@ -1,0 +1,8 @@
+D:\115\pr4\bin\Debug\pr4.exe.config
+D:\115\pr4\bin\Debug\pr4.exe
+D:\115\pr4\bin\Debug\pr4.pdb
+D:\115\pr4\obj\Debug\pr4.csproj.AssemblyReference.cache
+D:\115\pr4\obj\Debug\pr4.csproj.SuggestedBindingRedirects.cache
+D:\115\pr4\obj\Debug\pr4.csproj.CoreCompileInputs.cache
+D:\115\pr4\obj\Debug\pr4.exe
+D:\115\pr4\obj\Debug\pr4.pdb
